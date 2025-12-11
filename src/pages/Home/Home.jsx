@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css';
 
 const Home = () => {
@@ -9,8 +10,8 @@ const Home = () => {
           <h1 className="hero-title">Desenvolvedor Full Stack</h1>
           <p className="hero-subtitle">Transformando ideias em soluções digitais impactantes</p>
           <div className="hero-buttons">
-            <a href="/projects" className="btn-primary">Ver Projetos</a>
-            <a href="/contact" className="btn-secondary">Entrar em Contato</a>
+            <Link to="/Projects" className="btn-primary">Ver Projetos</Link>
+            <Link to="/contact" className="btn-secondary">Entrar em Contato</Link>
           </div>
         </div>
 
