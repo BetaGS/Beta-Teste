@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home">
       <div className="container">
         <div className="hero-section">
-          <h1 className="hero-title">Desenvolvedor Full Stack</h1>
+          <h1 className="hero-title">Desenvolvedor Front-End</h1>
           <p className="hero-subtitle">Transformando ideias em soluções digitais impactantes</p>
           <div className="hero-buttons">
             <Link to="/Projects" className="btn-primary">Ver Projetos</Link>

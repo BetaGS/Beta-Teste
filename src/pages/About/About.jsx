@@ -21,7 +21,7 @@ const About = () => {
             
             <div className="about-stats">
               <div className="stat">
-                <h3>20+</h3>
+                <h3>5+</h3>
                 <p>Projetos Concluídos</p>
               </div>
               <div className="stat">
@@ -29,7 +29,7 @@ const About = () => {
                 <p>Ano de Experiência</p>
               </div>
               <div className="stat">
-                <h3>30+</h3>
+                <h3>5+</h3>
                 <p>Clientes Satisfeitos</p>
               </div>
             </div>
